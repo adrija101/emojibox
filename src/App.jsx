@@ -2,7 +2,7 @@ import "./styles.css";
 import React, { useState } from "react";
 
 var heading = "Inside Out!";
-var color = "red";
+var color = "white";
 
 var emojiDictionary = {
   "😂": "Haha",
