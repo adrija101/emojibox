@@ -11,6 +11,17 @@ var emojiDictionary = {
   "😑": "Bleh",
   "😮": "OooOo",
   "💀": "Dead",
+  "🤯": "Mind=Blown",
+  "😇": "Angel",
+  "👽": "E.T.",
+  "👻": "Boo! It's a ghost!",
+  "👍": "Well Done!",
+  "👎": "Uh,No.",
+  "🥺": "Pleaseeeee",
+  "😶": "No words",
+  "🤨": "I don't understand",
+  "🤔": "Let me think",
+  "🥰": "Loved",
 };
 var emojisWeKnow = Object.keys(emojiDictionary);
 
